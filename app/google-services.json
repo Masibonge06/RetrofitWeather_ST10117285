@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002568451760",
+    "project_id": "retrofitweather-62004",
+    "storage_bucket": "retrofitweather-62004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002568451760:android:751764572b18db0f225d75",
+        "android_client_info": {
+          "package_name": "com.masibongekhumalo.retrofitweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002568451760-66fj9u5hrg3469uo60gg9gdskfpsn2er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBval-qQSQQmA4CpYO4cBSOHnqkUxKTOc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002568451760-66fj9u5hrg3469uo60gg9gdskfpsn2er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
